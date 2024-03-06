@@ -1,3 +1,5 @@
+= This branch is up-to-date with Aywen's episode 3 video. For an updated build of the game with english translation and QOL features, check out the main branch
+
 = 🎮 SuperWispy
 
 Context : SuperWispy is a port of https://github.com/Aywen1/wispy[Wispy by Aywen] to Transcendance
