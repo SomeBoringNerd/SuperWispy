@@ -1,6 +1,6 @@
 = 🎮 SuperWispy
 
-Context : SuperWispy is a port of https://github.com/aiwen1/wispy[Wispy by Aywen] to Transcendance
+Context : SuperWispy is a port of https://github.com/Aywen1/wispy[Wispy by Aywen] to Transcendance
 
 == 🎮 Credits :
 
@@ -98,7 +98,7 @@ Want to be part of this fun journey? Join my https://discord.gg/QjWsuaM3aB[Disco
 
 == 📃 License
 
-Both Wispy and SuperWispy are released under the https://choosealicense.com/licenses/gpl-3.0/[GPL-3.0 license].
+Wispy, SuperWispy, and the Transcendance Engine used in this project are all released under the https://choosealicense.com/licenses/gpl-3.0/[GPL-3.0 license].
 
 '''
 
